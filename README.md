@@ -29,8 +29,6 @@ _______
 - If the player's move beats the computer's move, the player WINS.
 - If the computer's move beats the player's move, the player LOSES.
 
-## Example
-
 ```python
 python rock_paper_scissors.py
 
